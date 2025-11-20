@@ -1,0 +1,21 @@
+# Секреты
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.DS_Store
+
+# Папки с результатами (не нужны в репозитории)
+output/
+final_upscaled/
+ready_for_wb/
+temp_input/
+temp_output/
+temp_upscaled/
+temp_final/
+
+# Временные файлы
+mask_auto.png
+*.zip
